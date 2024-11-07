@@ -5,7 +5,7 @@ The analysis involves creating a database, performing various SQL queries, and c
 ## Table of Contents
 
 ## Table of Contents
-- [General Product and Sales Insights](#general-product-and-sales-insights)
+- [Product Insights](#product-insights)
 - [Sales Insights](#sales-insights)
 - [Customer Insights](#customer-insights)
 
@@ -71,7 +71,7 @@ Select columns with null values in them. There are no null values in our databas
 
 ## Business Questions To Answer
 
-#### General Product and Sales Insights
+#### Product  Insights
 1. How many unique product lines does the data have?
 2. What is the most common payment method?
 3. What is the most selling product line?
