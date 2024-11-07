@@ -5,7 +5,7 @@ The analysis involves creating a database, performing various SQL queries, and c
 ## Table of Contents
 
 ## Table of Contents
-- [Product Insights](#product-insights)
+- [Product Insights](#Product-Insights)
 - [Sales Insights](#sales-insights)
 - [Customer Insights](#customer-insights)
 
