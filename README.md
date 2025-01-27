@@ -1,5 +1,5 @@
 ## Overview
-This readme file provides an overview of the data analysis conducted on Walmart sales data using SQL SERVER and SQL SERVER.
+This readme file provides an overview of the data analysis conducted on Walmart sales data using SQL SERVER.
 The analysis involves creating a database, performing various SQL queries, and conducting feature engineering to gain insights into the sales data.
 
 ## Table of Contents
