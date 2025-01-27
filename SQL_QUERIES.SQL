@@ -1,5 +1,5 @@
 
-```SQL 
+
 CREATE DATABASE IF NOT EXISTS walmartSales;
 
 
@@ -346,4 +346,4 @@ SELECT
 FROM sales
 GROUP BY customer_type
 ORDER BY total_tax;
-```
+
